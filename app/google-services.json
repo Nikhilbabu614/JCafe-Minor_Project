@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64979297291",
+    "project_id": "jcafe-60b6d",
+    "storage_bucket": "jcafe-60b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64979297291:android:4412ffea3fad2df6b0130e",
+        "android_client_info": {
+          "package_name": "com.example.jcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64979297291-7par8ubda8c5mq3htt3vlfkeb5sth0bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl8ougWOZ8wlcCHGSzNgmyvNw-qrzNIQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64979297291-7par8ubda8c5mq3htt3vlfkeb5sth0bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
